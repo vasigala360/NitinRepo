@@ -9,4 +9,8 @@ public void addContact(){
 public void addCase(){
 	
 }
+// Added by Apex
+public void addOpportunity(){
+	
+}
 }
